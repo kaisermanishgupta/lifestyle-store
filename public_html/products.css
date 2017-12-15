@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 Nov, 2017, 3:07:23 PM
+    Author     : Manish Gupta
+*/
+.jmt{
+    margin-top:7%;
+    padding-top: 2%;
+    position:inherit;
+      
+}
+
+#footerlg{
+    background-color: #000;
+    color:#fff;
+    max-height:30px;
+    font-size: 12px;
+    width : 100%;
+    min-width: 100%;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    float:bottom;
+    margin-top:1%;
+    
+}
+
+.tmg{
+    margin-top:1%;
+}
+
+.tmg1{
+    margin-top:1%;
+}
+.il{
+    text-decoration:none;
+    color:black;
+}

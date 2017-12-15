@@ -1,0 +1,173 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 Nov, 2017, 6:10:59 PM
+    Author     : Manish Gupta
+*/
+.container{
+    margin:auto;
+    overflow-x:auto;
+    width:100%    
+}
+
+.contnr1{
+margin-bottom: 10%;
+}
+
+body{
+    
+}
+
+#logo{
+    background-color:#000;       
+    float:top;
+    
+}
+
+#cont{   
+
+    float:left;
+    font-size:25px;
+    margin-left: 10px;
+    margin-top: 5px;
+    text-decoration: none;
+    color:#ededed;
+  
+}
+
+nav{
+    margin: 0;
+    padding: 0;
+}
+
+#bgimg{
+    background:url("img/intro-bg_1.jpg"); 
+    background-repeat:no-repeat; 
+    background-position: center;
+    background-size:cover;
+    order: 2;
+    height:450px;
+    max-width:100%;
+    border:1px solid black;
+    color:black;
+    margin-top:3px;
+    overflow: hidden;
+}
+
+#box{
+   background:rgba(0,0,0,0.625);
+   color:white;
+   width:50%;
+   height:20%;
+   margin-top: 80px;
+   padding-bottom:5%;
+}
+
+#disc{
+    margin-bottom:30px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+#hbox{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding-top: 8%;
+}
+
+#button{
+     color: #fff;
+    background-color: #c9302c;
+    border-color: #ac2925;
+    padding: 10px 16px; 
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: 10px
+}
+
+.items{
+    margin-top: 5%;
+}
+
+.btf{
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 4%;
+}
+
+.iimg{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.desc{
+    
+    color:#000;
+    font-weight: bold;
+    padding:0px 10px 10px;
+    text-align: center;   
+}
+
+.desclink{
+    text-decoration: none;
+}
+
+#header{
+    border-color: #080808;
+    padding: 1px;
+    border: solid;
+    font-size: 20px;
+    
+    order: 1;
+    move-to: top;
+    
+    background-color:#000;       
+    float:top;
+    
+}
+#content{
+    margin-top:0px;
+    min-height: 50px;
+    color:#ededed;
+}
+
+ul{
+    list-style-type: none;
+    margin-right: 5px;
+}
+
+li a{
+    text-decoration: none;
+    color:#ededed;
+    float:right;
+    padding:4px;
+    padding-right:14px; 
+    font-size: 16px;
+    margin-top: 06px;
+}
+
+
+#footerlg{
+    background-color: #000;
+    color:#fff;
+    max-height:30px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+     width : 100%;
+    min-width: 100%;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    float:bottom;
+    margin-top:2%;
+    
+}
